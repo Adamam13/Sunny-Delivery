@@ -2282,3 +2282,359 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.11.10-07.53.04:295][214]LogSavePackage: Moving '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/TestMap34CAAADB482B05F9A6920E9AC4623670.tmp' to '../../../../../../Sunny-Delivery/Sunny_Delivery/Content/Adam/TestMap.umap'
 [2023.11.10-07.53.04:354][214]AssetCheck: New page: Asset Save: TestMap
 [2023.11.10-07.53.04:354][214]LogContentValidation: Display: Validating World /Game/Adam/TestMap.TestMap
+[2023.11.10-07.53.43:986][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_50)
+[2023.11.10-07.53.44:588][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_51)
+[2023.11.10-07.53.54:141][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_55)
+[2023.11.10-07.54.15:364][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (carton_box_26)
+[2023.11.10-07.54.16:171][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_475)
+[2023.11.10-07.54.19:258][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_96)
+[2023.11.10-07.54.19:959][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_69)
+[2023.11.10-07.54.21:373][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_493)
+[2023.11.10-07.54.23:180][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_72)
+[2023.11.10-07.54.26:233][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (metalShelf_21)
+[2023.11.10-07.54.26:957][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_493)
+[2023.11.10-07.54.27:690][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_432)
+[2023.11.10-07.54.37:433][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_34)
+[2023.11.10-07.54.38:337][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalk_149)
+[2023.11.10-07.54.39:066][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_12)
+[2023.11.10-07.54.39:774][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_16)
+[2023.11.10-07.54.42:622][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_9)
+[2023.11.10-07.54.43:916][354]Cmd: EDIT COPY
+[2023.11.10-07.54.53:700][689]Cmd: TRANSACTION UNDO
+[2023.11.10-07.54.53:700][689]LogEditorTransaction: Undo Move Actors
+[2023.11.10-07.55.30:071][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_58)
+[2023.11.10-07.55.36:630][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_59)
+[2023.11.10-07.55.39:499][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_51)
+[2023.11.10-07.55.45:009][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_48)
+[2023.11.10-07.55.49:103][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_46)
+[2023.11.10-07.56.03:164][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_54)
+[2023.11.10-07.56.04:020][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_53)
+[2023.11.10-07.56.04:695][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_54)
+[2023.11.10-07.56.18:857][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_44)
+[2023.11.10-07.56.19:312][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_45)
+[2023.11.10-07.56.20:016][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_47)
+[2023.11.10-07.56.20:915][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_51)
+[2023.11.10-07.56.21:598][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_49)
+[2023.11.10-07.56.22:141][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_45)
+[2023.11.10-07.56.22:828][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_44)
+[2023.11.10-07.56.38:909][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_53)
+[2023.11.10-07.56.39:406][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_46)
+[2023.11.10-07.56.41:105][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_48)
+[2023.11.10-07.56.41:983][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_52)
+[2023.11.10-07.56.42:660][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_71)
+[2023.11.10-07.56.43:096][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_69)
+[2023.11.10-07.56.50:555][296]Cmd: TRANSACTION UNDO
+[2023.11.10-07.56.50:555][296]LogEditorTransaction: Undo Move Actors
+[2023.11.10-07.56.51:800][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_53)
+[2023.11.10-07.56.52:345][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_48)
+[2023.11.10-07.56.52:863][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_46)
+[2023.11.10-07.56.53:871][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_48)
+[2023.11.10-07.56.54:769][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_46)
+[2023.11.10-07.57.05:202][ 28]Cmd: TRANSACTION UNDO
+[2023.11.10-07.57.05:202][ 28]LogEditorTransaction: Undo Move Actors
+[2023.11.10-07.57.11:260][346]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.11.10-07.57.12:288][404]Cmd: TRANSACTION UNDO
+[2023.11.10-07.57.12:288][404]LogEditorTransaction: Undo Clicking on Actors
+[2023.11.10-07.57.14:133][491]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.11.10-07.57.24:915][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_79)
+[2023.11.10-07.57.25:638][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_85)
+[2023.11.10-07.57.26:195][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_88)
+[2023.11.10-07.57.46:145][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_40)
+[2023.11.10-07.57.48:099][471]Cmd: TRANSACTION UNDO
+[2023.11.10-07.57.48:099][471]LogEditorTransaction: Undo Move Actors
+[2023.11.10-07.58.05:167][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_69)
+[2023.11.10-07.58.05:732][480]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.11.10-08.03.02:921][720]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.11.10-08.03.02:932][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Adam/TestMap" FILE="../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/Autosaves/Game/Adam/TestMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.10-08.03.04:392][720]LogSavePackage: Moving '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/TestMap_Auto13C3F636A4AAC2A634B473691E0A189ED.tmp' to '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/Autosaves/Game/Adam/TestMap_Auto1.umap'
+[2023.11.10-08.03.04:402][720]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Adam/TestMap' took 1.504
+[2023.11.10-08.03.04:402][720]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.504
+[2023.11.10-08.05.07:110][109]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.10-08.05.07:110][109]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.10-08.07.25:183][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Adam/TestMap" FILE="../../../../../../Sunny-Delivery/Sunny_Delivery/Content/Adam/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.10-08.07.25:205][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.10-08.07.26:655][188]LogSavePackage: Moving '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/TestMap185AB01D4AFED9345C7A40AA8425284E.tmp' to '../../../../../../Sunny-Delivery/Sunny_Delivery/Content/Adam/TestMap.umap'
+[2023.11.10-08.07.26:707][188]AssetCheck: New page: Asset Save: TestMap
+[2023.11.10-08.07.26:707][188]LogContentValidation: Display: Validating World /Game/Adam/TestMap.TestMap
+[2023.11.10-08.07.28:498][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_38)
+[2023.11.10-08.07.30:472][405]Cmd: TRANSACTION UNDO
+[2023.11.10-08.07.30:472][405]LogEditorTransaction: Undo Move Actors
+[2023.11.10-08.07.58:076][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_96)
+[2023.11.10-08.07.59:458][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_85)
+[2023.11.10-08.08.00:007][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_98)
+[2023.11.10-08.08.03:668][334]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_99)
+[2023.11.10-08.08.04:266][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_98)
+[2023.11.10-08.08.05:029][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_91)
+[2023.11.10-08.08.06:986][526]Cmd: TRANSACTION UNDO
+[2023.11.10-08.08.06:986][526]LogEditorTransaction: Undo Scale Actors
+[2023.11.10-08.08.07:845][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_92)
+[2023.11.10-08.08.08:496][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_98)
+[2023.11.10-08.08.12:088][801]Cmd: TRANSACTION UNDO
+[2023.11.10-08.08.12:088][801]LogEditorTransaction: Undo Scale Actors
+[2023.11.10-08.08.22:992][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_57)
+[2023.11.10-08.08.48:522][960]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.10-08.08.48:522][960]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.10-08.08.54:580][320]Cmd: TRANSACTION UNDO
+[2023.11.10-08.08.54:580][320]LogEditorTransaction: Undo Move Actors
+[2023.11.10-08.09.18:725][723]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.19:323][751]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.19:962][785]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.20:645][817]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.20:909][830]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.21:670][863]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.21:967][879]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.23:739][976]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.24:201][  3]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.24:688][ 32]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.24:989][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_70)
+[2023.11.10-08.09.25:156][ 57]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.09.38:776][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_57)
+[2023.11.10-08.09.47:358][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_58)
+[2023.11.10-08.09.55:592][862]Cmd: MODE GRID=0
+[2023.11.10-08.09.56:264][900]Cmd: MODE GRID=1
+[2023.11.10-08.10.18:774][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_90)
+[2023.11.10-08.10.19:230][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_88)
+[2023.11.10-08.10.20:020][288]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.10.24:241][511]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (veh_TruckTrailer_6)
+[2023.11.10-08.10.25:006][553]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.11.10-08.10.31:941][906]Cmd: TRANSACTION UNDO
+[2023.11.10-08.10.31:941][906]LogEditorTransaction: Undo Clicking on Actors
+[2023.11.10-08.10.36:691][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_49)
+[2023.11.10-08.10.40:571][289]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (road_51)
+[2023.11.10-08.10.41:454][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_51)
+[2023.11.10-08.10.51:628][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_18)
+[2023.11.10-08.10.52:777][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_18)
+[2023.11.10-08.10.54:496][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_43)
+[2023.11.10-08.11.14:860][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_56)
+[2023.11.10-08.11.24:072][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_58)
+[2023.11.10-08.11.33:640][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_59)
+[2023.11.10-08.11.34:570][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_61)
+[2023.11.10-08.11.35:169][217]Cmd: DELETE
+[2023.11.10-08.11.35:169][217]Cmd: ACTOR DELETE
+[2023.11.10-08.11.35:305][217]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.10-08.11.35:324][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.11.10-08.11.35:332][217]LogEditorActor: Deleted 1 Actors (0.162 secs)
+[2023.11.10-08.11.35:510][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_60)
+[2023.11.10-08.11.35:720][238]Cmd: DELETE
+[2023.11.10-08.11.35:720][238]Cmd: ACTOR DELETE
+[2023.11.10-08.11.35:861][238]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.10-08.11.35:879][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.10-08.11.35:880][238]LogEditorActor: Deleted 1 Actors (0.160 secs)
+[2023.11.10-08.11.36:479][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_58)
+[2023.11.10-08.11.43:789][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_59)
+[2023.11.10-08.11.45:828][820]Cmd: TRANSACTION UNDO
+[2023.11.10-08.11.45:828][820]LogEditorTransaction: Undo Scale Actors
+[2023.11.10-08.11.54:682][333]Cmd: TRANSACTION UNDO
+[2023.11.10-08.11.54:682][333]LogEditorTransaction: Undo Move Actors
+[2023.11.10-08.12.04:208][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_47)
+[2023.11.10-08.12.42:475][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_13)
+[2023.11.10-08.12.43:211][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_01_corner5)
+[2023.11.10-08.12.43:777][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_13)
+[2023.11.10-08.12.44:708][964]Cmd: EDIT COPY
+[2023.11.10-08.12.49:070][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_48)
+[2023.11.10-08.12.49:498][241]Cmd: EDIT PASTE
+[2023.11.10-08.12.57:733][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_58)
+[2023.11.10-08.12.58:050][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_48)
+[2023.11.10-08.12.58:940][745]Cmd: EDIT PASTE
+[2023.11.10-08.13.00:545][816]Cmd: TRANSACTION UNDO
+[2023.11.10-08.13.00:545][816]LogEditorTransaction: Undo Paste
+[2023.11.10-08.13.01:018][817]Cmd: TRANSACTION UNDO
+[2023.11.10-08.13.01:018][817]LogEditorTransaction: Undo Clicking on Actors
+[2023.11.10-08.13.02:001][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_48)
+[2023.11.10-08.13.02:454][870]Cmd: EDIT PASTE
+[2023.11.10-08.13.03:461][909]Cmd: TRANSACTION UNDO
+[2023.11.10-08.13.03:461][909]LogEditorTransaction: Undo Paste
+[2023.11.10-08.13.05:038][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_61)
+[2023.11.10-08.13.18:156][637]Cmd: TRANSACTION UNDO
+[2023.11.10-08.13.18:156][637]LogEditorTransaction: Undo Move Actors
+[2023.11.10-08.13.19:126][678]Cmd: DELETE
+[2023.11.10-08.13.19:126][678]Cmd: ACTOR DELETE
+[2023.11.10-08.13.19:263][678]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.11.10-08.13.19:281][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.11.10-08.13.19:288][678]LogEditorActor: Deleted 1 Actors (0.162 secs)
+[2023.11.10-08.13.19:807][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_32)
+[2023.11.10-08.13.30:944][358]Cmd: TRANSACTION UNDO
+[2023.11.10-08.13.30:944][358]LogEditorTransaction: Undo Rotate Actors
+[2023.11.10-08.13.39:067][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_56)
+[2023.11.10-08.13.41:294][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_62)
+[2023.11.10-08.13.47:670][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_47)
+[2023.11.10-08.13.49:674][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_62)
+[2023.11.10-08.13.52:988][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_53)
+[2023.11.10-08.13.53:705][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_62)
+[2023.11.10-08.14.15:629][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_56)
+[2023.11.10-08.14.17:649][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_62)
+[2023.11.10-08.14.39:539][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_48)
+[2023.11.10-08.14.40:722][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_62)
+[2023.11.10-08.14.44:629][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_56)
+[2023.11.10-08.14.53:419][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_62)
+[2023.11.10-08.14.56:171][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_63)
+[2023.11.10-08.15.03:836][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_57)
+[2023.11.10-08.15.04:466][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_62)
+[2023.11.10-08.15.07:347][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_53)
+[2023.11.10-08.15.08:014][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_62)
+[2023.11.10-08.15.10:025][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_63)
+[2023.11.10-08.15.14:458][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_62)
+[2023.11.10-08.15.50:560][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_51)
+[2023.11.10-08.15.52:132][127]Cmd: TRANSACTION UNDO
+[2023.11.10-08.15.52:132][127]LogEditorTransaction: Undo Clicking on Actors
+[2023.11.10-08.15.57:287][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_45)
+[2023.11.10-08.16.00:744][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_64)
+[2023.11.10-08.16.03:002][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_47)
+[2023.11.10-08.16.03:927][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_49)
+[2023.11.10-08.16.10:493][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingBarn_01)
+[2023.11.10-08.16.14:755][434]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.11.10-08.17.11:836][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_477)
+[2023.11.10-08.17.12:631][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_345)
+[2023.11.10-08.17.13:552][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_358)
+[2023.11.10-08.17.14:566][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chimney_11)
+[2023.11.10-08.17.16:143][763]Cmd: TRANSACTION UNDO
+[2023.11.10-08.17.16:143][763]LogEditorTransaction: Undo Move Actors
+[2023.11.10-08.17.17:503][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_127)
+[2023.11.10-08.17.19:652][907]Cmd: TRANSACTION UNDO
+[2023.11.10-08.17.19:652][907]LogEditorTransaction: Undo Move Actors
+[2023.11.10-08.17.21:678][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingTrailerHouse_04)
+[2023.11.10-08.17.32:297][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingBarn_3)
+[2023.11.10-08.17.37:700][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_157)
+[2023.11.10-08.17.39:557][995]Cmd: TRANSACTION UNDO
+[2023.11.10-08.17.39:557][995]LogEditorTransaction: Undo Move Actors
+[2023.11.10-08.17.40:612][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_159)
+[2023.11.10-08.17.40:944][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (veranda_6)
+[2023.11.10-08.17.41:234][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (veranda_6)
+[2023.11.10-08.17.42:523][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_157)
+[2023.11.10-08.17.49:857][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GasStationOld)
+[2023.11.10-08.18.10:931][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_18)
+[2023.11.10-08.18.23:561][420]Cmd: TRANSACTION UNDO
+[2023.11.10-08.18.23:561][420]LogEditorTransaction: Undo Move Actors
+[2023.11.10-08.18.24:843][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GasStationOld2)
+[2023.11.10-08.18.35:505][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grassHill_17)
+[2023.11.10-08.18.35:904][ 69]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.11.10-08.18.36:245][ 88]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.11.10-08.18.43:194][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_18)
+[2023.11.10-08.18.46:004][631]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.11.10-08.18.46:501][658]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.11.10-08.18.46:786][674]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.11.10-08.18.46:821][675]LogEditorViewport: Clicking on Actor (double click): InstancedFoliageActor (InstancedFoliageActor)
+[2023.11.10-08.18.48:653][777]Cmd: EDIT COPY
+[2023.11.10-08.18.49:033][799]Cmd: EDIT PASTE
+[2023.11.10-08.18.54:361][ 85]Cmd: TRANSACTION UNDO
+[2023.11.10-08.18.54:361][ 85]LogEditorTransaction: Undo Clicking on Actors
+[2023.11.10-08.18.54:829][ 98]Cmd: TRANSACTION UNDO
+[2023.11.10-08.18.54:829][ 98]LogEditorTransaction: Undo Clicking on Actors
+[2023.11.10-08.18.58:573][278]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.11.10-08.18.58:933][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_44)
+[2023.11.10-08.18.59:546][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_59)
+[2023.11.10-08.19.13:490][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_10)
+[2023.11.10-08.19.18:243][417]LogActorFactory: Actor Factory created SM_buildingTrailerHouse_01
+[2023.11.10-08.19.23:639][737]LogActorFactory: Actor Factory created SM_buildingTrailerHouse_01
+[2023.11.10-08.19.25:575][838]LogActorFactory: Actor Factory created SM_GasStationOld
+[2023.11.10-08.19.28:309][999]LogActorFactory: Actor Factory created SM_GasStationOld
+[2023.11.10-08.19.36:013][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_buildingTrailerHouse_01)
+[2023.11.10-08.20.00:728][863]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (veh_SUV_5)
+[2023.11.10-08.20.01:388][899]Cmd: EDIT COPY
+[2023.11.10-08.20.44:693][909]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.11.10-08.20.44:705][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Adam/TestMap" FILE="../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/Autosaves/Game/Adam/TestMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.10-08.20.46:157][909]LogSavePackage: Moving '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/TestMap_Auto2F634400B4306BEFCFCA8D98A6B793F07.tmp' to '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/Autosaves/Game/Adam/TestMap_Auto2.umap'
+[2023.11.10-08.20.46:166][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Adam/TestMap' took 1.496
+[2023.11.10-08.20.46:166][909]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.496
+[2023.11.10-08.20.47:738][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Adam/TestMap" FILE="../../../../../../Sunny-Delivery/Sunny_Delivery/Content/Adam/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.10-08.20.47:760][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.10-08.20.49:222][966]LogSavePackage: Moving '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/TestMap58E7D6754D8AF99A37F7FB836AFA5C40.tmp' to '../../../../../../Sunny-Delivery/Sunny_Delivery/Content/Adam/TestMap.umap'
+[2023.11.10-08.20.49:262][966]AssetCheck: New page: Asset Save: TestMap
+[2023.11.10-08.20.49:262][966]LogContentValidation: Display: Validating World /Game/Adam/TestMap.TestMap
+[2023.11.10-08.20.55:201][180]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_2. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.20.56:223][228]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_3. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.20.57:210][264]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_5. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.20.59:560][371]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_6. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.21.01:032][421]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_8. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.21.01:869][458]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_9. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.21.03:875][544]Cmd: DELETE
+[2023.11.10-08.21.03:875][544]Cmd: ACTOR DELETE
+[2023.11.10-08.21.04:019][544]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.11.10-08.21.04:038][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.11.10-08.21.04:042][544]LogEditorActor: Deleted 1 Actors (0.167 secs)
+[2023.11.10-08.21.09:827][875]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PH_veh_SportClassic_01_Physics)
+[2023.11.10-08.21.13:800][106]Cmd: DELETE
+[2023.11.10-08.21.13:800][106]Cmd: ACTOR DELETE
+[2023.11.10-08.21.13:934][106]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.11.10-08.21.13:953][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.10-08.21.13:956][106]LogEditorActor: Deleted 1 Actors (0.156 secs)
+[2023.11.10-08.21.14:318][126]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PH_veh_Offroad_01_Physics)
+[2023.11.10-08.21.25:530][745]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (veh_SUV_6)
+[2023.11.10-08.21.31:521][  1]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PH_veh_Muscle_01_Physics)
+[2023.11.10-08.21.42:062][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_47)
+[2023.11.10-08.21.43:854][481]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2023.11.10-08.21.44:692][512]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2023.11.10-08.21.52:417][873]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_12. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.21.52:786][890]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_13. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.22.05:715][363]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_15. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.22.06:310][381]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_16. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.22.14:529][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_56)
+[2023.11.10-08.22.23:648][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_55)
+[2023.11.10-08.22.37:070][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingBarn_01)
+[2023.11.10-08.22.38:055][ 98]Cmd: EDIT COPY
+[2023.11.10-08.22.38:392][118]Cmd: EDIT PASTE
+[2023.11.10-08.22.45:630][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_6)
+[2023.11.10-08.22.46:389][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_90)
+[2023.11.10-08.22.47:511][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_447)
+[2023.11.10-08.22.48:189][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_110)
+[2023.11.10-08.22.54:730][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_117)
+[2023.11.10-08.22.56:002][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_03_corner7)
+[2023.11.10-08.22.56:554][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wallDoor_88)
+[2023.11.10-08.23.00:589][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingBarn_4)
+[2023.11.10-08.23.01:390][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_158)
+[2023.11.10-08.23.02:565][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (floor_579)
+[2023.11.10-08.23.03:235][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (parcel_12)
+[2023.11.10-08.23.04:949][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_churchTop)
+[2023.11.10-08.23.05:673][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (roof_8)
+[2023.11.10-08.23.06:457][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_41)
+[2023.11.10-08.23.47:813][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GasStationOld)
+[2023.11.10-08.24.11:282][541]LogActorFactory: Actor Factory created SM_buildingTrailerHouse_01
+[2023.11.10-08.24.12:328][588]LogActorFactory: Actor Factory created SM_buildingTrailerHouse_01
+[2023.11.10-08.24.37:750][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_buildingTrailerHouse_2)
+[2023.11.10-08.24.40:481][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_buildingTrailerHouse_3)
+[2023.11.10-08.24.42:250][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dirtEdge_62)
+[2023.11.10-08.24.42:847][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_buildingTrailerHouse_2)
+[2023.11.10-08.24.43:345][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_buildingTrailerHouse_3)
+[2023.11.10-08.24.51:276][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GasStationOld)
+[2023.11.10-08.24.55:312][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_65)
+[2023.11.10-08.24.55:850][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GasStationOld)
+[2023.11.10-08.24.57:541][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GasStationOld2)
+[2023.11.10-08.24.57:901][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_GasStationOld3)
+[2023.11.10-08.24.59:563][ 64]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2023.11.10-08.25.00:257][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_buildingTrailerHouse_4)
+[2023.11.10-08.25.01:800][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_buildingTrailerHouse_3)
+[2023.11.10-08.25.03:993][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (buildingTrailerHouse_6)
+[2023.11.10-08.25.06:155][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_buildingTrailerHouse_2)
+[2023.11.10-08.25.07:928][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_68)
+[2023.11.10-08.25.49:256][700]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_24. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.25.50:239][752]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_25. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.25.51:706][817]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_27. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.25.52:672][872]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_28. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.11.10-08.26.02:593][439]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_veh_SportClassic_02)
+[2023.11.10-08.26.10:540][902]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PH_veh_SUV_01_Physics)
+[2023.11.10-08.26.15:929][217]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PH_veh_Sedan_01_Physics)
+[2023.11.10-08.26.22:838][623]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_veh_SportClassic_02)
+[2023.11.10-08.26.23:366][651]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PH_veh_SUV_01_Physics)
+[2023.11.10-08.26.23:879][678]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PH_veh_Sedan_01_Physics)
+[2023.11.10-08.26.25:307][760]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PH_veh_SUV_01_Physics)
+[2023.11.10-08.26.26:770][844]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_veh_SportClassic_02)
+[2023.11.10-08.26.27:830][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_56)
+[2023.11.10-08.26.42:463][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grass_46)
+[2023.11.10-08.26.43:017][765]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_veh_PoliceCarSUV_01)
+[2023.11.10-08.26.58:465][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_road_cone8)
+[2023.11.10-08.26.59:943][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_road_cone7)
+[2023.11.10-08.27.01:366][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_road_cone6)
+[2023.11.10-08.27.02:966][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_road_cone5)
+[2023.11.10-08.27.04:483][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_56)
+[2023.11.10-08.27.05:229][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_55)
+[2023.11.10-08.27.06:525][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (background_Mountains_7)
+[2023.11.10-08.27.09:735][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Adam/TestMap" FILE="../../../../../../Sunny-Delivery/Sunny_Delivery/Content/Adam/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.10-08.27.09:759][333]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.11.10-08.27.11:224][333]LogSavePackage: Moving '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/TestMap485E442A49CF8FF6A46D578CDD24DCC9.tmp' to '../../../../../../Sunny-Delivery/Sunny_Delivery/Content/Adam/TestMap.umap'
+[2023.11.10-08.27.11:274][333]AssetCheck: New page: Asset Save: TestMap
+[2023.11.10-08.27.11:274][333]LogContentValidation: Display: Validating World /Game/Adam/TestMap.TestMap
+[2023.11.10-08.27.56:446][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Adam/TestMap" FILE="../../../../../../Sunny-Delivery/Sunny_Delivery/Content/Adam/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.10-08.27.56:467][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.11.10-08.27.57:931][768]LogSavePackage: Moving '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/TestMapEFECF7CB414A649E90B42EA45F74FB4A.tmp' to '../../../../../../Sunny-Delivery/Sunny_Delivery/Content/Adam/TestMap.umap'
+[2023.11.10-08.27.57:971][768]AssetCheck: New page: Asset Save: TestMap
+[2023.11.10-08.27.57:971][768]LogContentValidation: Display: Validating World /Game/Adam/TestMap.TestMap
