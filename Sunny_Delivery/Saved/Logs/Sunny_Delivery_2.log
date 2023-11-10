@@ -2638,3 +2638,611 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.11.10-08.27.57:931][768]LogSavePackage: Moving '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/TestMapEFECF7CB414A649E90B42EA45F74FB4A.tmp' to '../../../../../../Sunny-Delivery/Sunny_Delivery/Content/Adam/TestMap.umap'
 [2023.11.10-08.27.57:971][768]AssetCheck: New page: Asset Save: TestMap
 [2023.11.10-08.27.57:971][768]LogContentValidation: Display: Validating World /Game/Adam/TestMap.TestMap
+[2023.11.10-08.35.23:122][717]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.10-08.35.23:122][717]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.11.10-08.35.37:118][507]MapCheck: New page: Map Check
+[2023.11.10-08.35.37:135][507]Cmd: MAP REBUILD ALLVISIBLE
+[2023.11.10-08.35.37:136][507]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2023.11.10-08.35.37:299][507]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=false
+[2023.11.10-08.35.37:750][507]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.11.10-08.35.37:750][507]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2023.11.10-08.35.37:750][507]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2023.11.10-08.35.37:810][507]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.11.10-08.35.38:016][507]LogLevel: Display: Export Material TexCoord Scales took 0.194 seconds.
+[2023.11.10-08.35.38:247][507]TextureStreamingBuild: Display: Build Texture Streaming took 0.231 seconds.
+[2023.11.10-08.35.38:298][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.11.10-08.35.38:304][507]LightingResults: New page: Lighting Build - Nov 10, 2023, 10:35:38 PM
+[2023.11.10-08.35.38:636][507]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2023.11.10-08.35.39:323][507]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2023.11.10-08.35.39:370][507]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2023.11.10-08.35.40:419][507]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2023.11.10-08.35.40:419][507]LogSwarmInterface: [TryOpenConnection] Local Process ID is 29336
+[2023.11.10-08.35.43:892][507]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2023.11.10-08.35.43:892][507]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2023.11.10-08.35.43:892][507]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2023.11.10-08.35.43:892][507]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2023.11.10-08.35.43:892][507]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2023.11.10-08.35.52:094][507]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2023.11.10-08.35.52:094][507]MapCheck: New page: TestMap - Nov 10, 2023, 10:35:52 PM
+[2023.11.10-08.35.52:095][507]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2023.11.10-08.35.52:096][507]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.35.52:096][507]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.35.52:096][507]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.35.52:096][507]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.35.52:096][507]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.35.52:096][507]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.35.52:096][507]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.35.52:096][507]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.35.52:096][507]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.35.52:096][507]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.35.52:116][507]MapCheck: Warning: dirtEdge_13 dirtEdge_13 is in the same location as dirtEdge_61 
+[2023.11.10-08.35.52:117][507]MapCheck: Warning: buildingBarn_01_2 buildingBarn_01_2 is in the same location as buildingBarn_4 
+[2023.11.10-08.35.52:132][507]MapCheck: Warning: dirtEdge_61 dirtEdge_61 is in the same location as dirtEdge_13 
+[2023.11.10-08.35.52:132][507]MapCheck: Warning: buildingBarn_4 buildingBarn_4 is in the same location as buildingBarn_01_2 
+[2023.11.10-08.35.52:132][507]MapCheck: Map check complete: 1 Error(s), 14 Warning(s), took 37.527ms to complete.
+[2023.11.10-08.35.52:134][507]LogEditorBuildUtils: Build time 0:15
+[2023.11.10-08.35.52:620][507]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_GroundTile in PCD3D_SM5, Default, SM5 (DDC key hash: 2932B6E3F3C5FA3CD8006134605AF6C05E2AD04E), compiling. 
+[2023.11.10-08.35.52:625][507]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:626][507]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_GroundTile in PCD3D_SM5, Default, SM5 (DDC key hash: 17B3911F9B0BE990E21D5A78978DB83F5F799695), compiling. 
+[2023.11.10-08.35.52:629][507]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:636][507]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2023.11.10-08.35.52:636][507]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2023.11.10-08.35.52:636][507]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2023.11.10-08.35.52:636][507]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2023.11.10-08.35.52:636][507]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:719][507]LogSlate: Took 0.006046 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.11.10-08.35.52:739][508]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_matteWhite in PCD3D_SM5, Default, SM5 (DDC key hash: C4A8E38D6B140B142C520448398AF4E2EE69C605), compiling. 
+[2023.11.10-08.35.52:743][508]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:745][508]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2023.11.10-08.35.52:745][508]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2023.11.10-08.35.52:745][508]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:745][508]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_matteWhite in PCD3D_SM5, Default, SM5 (DDC key hash: D6CA722F4692994BC0C2C9C95EE1CA26D3DF7A9C), compiling. 
+[2023.11.10-08.35.52:750][508]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:786][509]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.11.10-08.35.52:786][509]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2023.11.10-08.35.52:786][509]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:796][509]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_ColorPalette in PCD3D_SM5, Default, SM5 (DDC key hash: 75CC3B7D0D98DF85C67AF5D5C2CC953B1043BCA0), compiling. 
+[2023.11.10-08.35.52:802][509]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:804][509]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_ColorPalette in PCD3D_SM5, Default, SM5 (DDC key hash: AD43310984B254CA666FB97FF82C2FD62A2BDC9E), compiling. 
+[2023.11.10-08.35.52:808][509]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:851][510]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_GlassBasic in PCD3D_SM5, Default, SM5 (DDC key hash: D7F5C5400EF4DE926BFAA031AB5B839C78756358), compiling. 
+[2023.11.10-08.35.52:857][510]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:859][510]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_GlassBasic in PCD3D_SM5, Default, SM5 (DDC key hash: 73FD77D61F7000AA52E5E3771F5E17F92C17B417), compiling. 
+[2023.11.10-08.35.52:865][510]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:888][511]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_ColorPalette_GLOW in PCD3D_SM5, Default, SM5 (DDC key hash: 7D0FD9F47ADC5C29C97A759257E3AC9E7A8E70B0), compiling. 
+[2023.11.10-08.35.52:894][511]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:896][511]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_ColorPalette_GLOW in PCD3D_SM5, Default, SM5 (DDC key hash: 31BD75CA4912F9FA5744ED5AC12902680D1CC45B), compiling. 
+[2023.11.10-08.35.52:902][511]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:965][512]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_FenceMetal_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 32CF36C064F63BDB383A625B64FAF2879C992C79), compiling. 
+[2023.11.10-08.35.52:971][512]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:973][512]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_FenceMetal_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 406871160CFDC7B7A621014FAFB0055E26EB5512), compiling. 
+[2023.11.10-08.35.52:980][512]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.52:983][512]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_FenceMetal_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 22A15D6365F90FC9160817A8DE50178348A096AE), compiling. 
+[2023.11.10-08.35.52:988][512]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.53:006][513]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: B5BF1937114D8A1169D2E46FBD68239C19C51F7B), compiling. 
+[2023.11.10-08.35.53:011][513]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.53:013][513]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: A3E13DF9F8725DC88F0F6F9AAA2519B6E0D934F6), compiling. 
+[2023.11.10-08.35.53:018][513]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.53:038][514]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Leaf_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 412CB66010BED8E3019C0D829C15E06E06AA9BF0), compiling. 
+[2023.11.10-08.35.53:044][514]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.53:046][514]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Leaf_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F172DC4B5AE7CAAAA5BA11D08DAC49F7E4DE72E), compiling. 
+[2023.11.10-08.35.53:052][514]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.53:055][514]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MI_Leaf_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 03718D011259A49BC4953CCE45A61082EC02625D), compiling. 
+[2023.11.10-08.35.53:060][514]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.53:089][515]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 09BE4C7A08E9CF5953A86E83F05117832C1466B9), compiling. Is special engine material.
+[2023.11.10-08.35.53:096][515]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.53:100][515]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A2E71CE4DF26E5630E073D9FE8BE1AFD709D796A), compiling. Is special engine material.
+[2023.11.10-08.35.53:106][515]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.53:183][516]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E196F04F6F9970EA62120D75BF8070669BA10977), compiling. 
+[2023.11.10-08.35.53:188][516]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.53:189][516]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED95D2B258450F45B96DD24FF92CD0213EF3DA23), compiling. 
+[2023.11.10-08.35.53:196][516]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Total job queries 1888, among them cache hits 904 (47.88%)
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: Tracking 984 distinct input hashes that result in 608 distinct outputs (61.79%)
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: RAM used: 3.87 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.47%
+[2023.11.10-08.35.55:986][517]LogShaderCompilers: Display: ================================================
+[2023.11.10-08.35.59:090][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.11.10-08.37.55:872][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2023.11.10-08.37.55:887][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Adam/TestMap" FILE="../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/Autosaves/Game/Adam/TestMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.10-08.37.58:915][157]LogSavePackage: Moving '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/TestMap_Auto3B7832F3A453ED392D6FDAD86CBDDD148.tmp' to '../../../../../../Sunny-Delivery/Sunny_Delivery/Saved/Autosaves/Game/Adam/TestMap_Auto3.umap'
+[2023.11.10-08.37.58:930][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Adam/TestMap' took 3.203
+[2023.11.10-08.37.58:930][157]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.203
+[2023.11.10-08.44.53:816][857]Job is a success!
+[2023.11.10-08.44.54:313][858]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.256s
+[2023.11.10-08.44.54:313][858]LogVolumetricLightmapImport:      Indirection Texture 64x48x16 = 0.2Mb
+[2023.11.10-08.44.54:313][858]LogVolumetricLightmapImport:      BrickData (all levels) 12.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2023.11.10-08.44.54:313][858]LogVolumetricLightmapImport:      Bricks at depth
+[2023.11.10-08.44.54:313][858]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2023.11.10-08.44.54:313][858]LogVolumetricLightmapImport:          1: 4.9% covering 15.0% of volume
+[2023.11.10-08.44.54:313][858]LogVolumetricLightmapImport:          2: 94.6% covering 4.5% of volume
+[2023.11.10-08.44.54:313][858]LogVolumetricLightmapImport:      Bricks in each level
+[2023.11.10-08.44.54:313][858]LogVolumetricLightmapImport:          TestMap 			 2345 bricks 	 100.0% (Persistent Level)
+[2023.11.10-08.45.03:628][858]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:628][858]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:628][858]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:628][858]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:628][858]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:628][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:628][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:628][858]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:628][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: SkyOcclusion0_5 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: SkyOcclusion0_6 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: SkyOcclusion0_7 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:629][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:629][858]LogTexture: Display: Building textures: SkyOcclusion0_8 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: SkyOcclusion0_9 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: SkyOcclusion0_10 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: SkyOcclusion0_11 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: SkyOcclusion0_12 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: SkyOcclusion0_13 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: SkyOcclusion0_14 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:630][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: SkyOcclusion0_15 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: HQ_Lightmap0_15 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: SkyOcclusion0_16 (OODLE_AutoDXT, 512X256)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: HQ_Lightmap0_16 (OODLE_AutoDXT, 512X512)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: SkyOcclusion0_17 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (OODLE_DXT1, 512X512)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: HQ_Lightmap0_17 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: SkyOcclusion0_18 (OODLE_AutoDXT, 128X64)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (OODLE_DXT1, 128X128)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: HQ_Lightmap0_18 (OODLE_AutoDXT, 128X128)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: SkyOcclusion0_19 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: HQ_Lightmap0_19 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: SkyOcclusion0_20 (OODLE_AutoDXT, 128X64)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: HQ_Lightmap0_20 (OODLE_AutoDXT, 128X128)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (OODLE_DXT1, 128X128)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: SkyOcclusion0_21 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: HQ_Lightmap0_21 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: SkyOcclusion0_22 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: HQ_Lightmap0_22 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: SkyOcclusion0_23 (OODLE_AutoDXT, 512X256)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTexture: Display: Building textures: HQ_Lightmap0_23 (OODLE_AutoDXT, 512X512)
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:631][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (OODLE_DXT1, 512X512)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: SkyOcclusion0_24 (OODLE_AutoDXT, 128X64)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: HQ_Lightmap0_24 (OODLE_AutoDXT, 128X128)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (OODLE_DXT1, 128X128)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: SkyOcclusion0_25 (OODLE_AutoDXT, 512X256)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: HQ_Lightmap0_25 (OODLE_AutoDXT, 512X512)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (OODLE_DXT1, 512X512)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: SkyOcclusion0_26 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: HQ_Lightmap0_26 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: SkyOcclusion0_27 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: HQ_Lightmap0_27 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: SkyOcclusion0_28 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: HQ_Lightmap0_28 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: SkyOcclusion0_29 (OODLE_AutoDXT, 128X64)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: HQ_Lightmap0_29 (OODLE_AutoDXT, 128X128)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (OODLE_DXT1, 128X128)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: SkyOcclusion0_30 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: HQ_Lightmap0_30 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: SkyOcclusion0_31 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: HQ_Lightmap0_31 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: SkyOcclusion0_32 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: HQ_Lightmap0_32 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:632][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: SkyOcclusion0_33 (OODLE_AutoDXT, 128X64)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: HQ_Lightmap0_33 (OODLE_AutoDXT, 128X128)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (OODLE_DXT1, 128X128)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: SkyOcclusion0_34 (OODLE_AutoDXT, 128X64)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: HQ_Lightmap0_34 (OODLE_AutoDXT, 128X128)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (OODLE_DXT1, 128X128)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: SkyOcclusion0_35 (OODLE_AutoDXT, 256X128)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: HQ_Lightmap0_35 (OODLE_AutoDXT, 256X256)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (OODLE_DXT1, 256X256)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: HQ_Lightmap0_36 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: SkyOcclusion0_36 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: SkyOcclusion0_37 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: HQ_Lightmap0_37 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: SkyOcclusion0_38 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: HQ_Lightmap0_38 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: SkyOcclusion0_39 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: HQ_Lightmap0_39 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: SkyOcclusion0_40 (OODLE_AutoDXT, 128X64)
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: HQ_Lightmap0_40 (OODLE_AutoDXT, 128X128)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (OODLE_DXT1, 128X128)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: SkyOcclusion0_41 (OODLE_AutoDXT, 128X64)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: HQ_Lightmap0_41 (OODLE_AutoDXT, 128X128)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (OODLE_DXT1, 128X128)
+[2023.11.10-08.45.03:633][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: SkyOcclusion0_42 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:633][858]LogTexture: Display: Building textures: HQ_Lightmap0_42 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: SkyOcclusion0_43 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: HQ_Lightmap0_43 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: SkyOcclusion0_44 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: HQ_Lightmap0_44 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: SkyOcclusion0_45 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: HQ_Lightmap0_45 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: SkyOcclusion0_46 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: HQ_Lightmap0_46 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: SkyOcclusion0_47 (OODLE_AutoDXT, 128X64)
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:634][858]LogTexture: Display: Building textures: HQ_Lightmap0_47 (OODLE_AutoDXT, 128X128)
+[2023.11.10-08.45.03:634][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (OODLE_DXT1, 128X128)
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: SkyOcclusion0_48 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: HQ_Lightmap0_48 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: SkyOcclusion0_49 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: HQ_Lightmap0_49 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: SkyOcclusion0_50 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: HQ_Lightmap0_50 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:635][858]LogTexture: Display: Building textures: SkyOcclusion0_51 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:635][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: HQ_Lightmap0_51 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: HQ_Lightmap0_52 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: SkyOcclusion0_52 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: SkyOcclusion0_53 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: HQ_Lightmap0_53 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: SkyOcclusion0_54 (OODLE_AutoDXT, 1024X512)
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: HQ_Lightmap0_54 (OODLE_AutoDXT, 1024X1024)
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (OODLE_DXT1, 1024X1024)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: SkyOcclusion0_55 (OODLE_AutoDXT, 256X128)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: HQ_Lightmap0_55 (OODLE_AutoDXT, 256X256)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (OODLE_DXT1, 256X256)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: SkyOcclusion0_56 (OODLE_AutoDXT, 64X32)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: HQ_Lightmap0_56 (OODLE_AutoDXT, 64X64)
+[2023.11.10-08.45.03:636][858]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (OODLE_DXT1, 64X64)
+[2023.11.10-08.45.03:636][858]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2023.11.10-08.45.03:829][858]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 64X64)
+[2023.11.10-08.45.03:829][858]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X64)
+[2023.11.10-08.45.03:829][858]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X64)
+[2023.11.10-08.45.03:829][858]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X512)
+[2023.11.10-08.45.04:029][858]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X512)
+[2023.11.10-08.45.04:029][858]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 64X64)
+[2023.11.10-08.45.04:029][858]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X64)
+[2023.11.10-08.45.04:229][858]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 1024X256)
+[2023.11.10-08.45.04:229][858]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 64X64)
+[2023.11.10-08.45.04:229][858]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X512)
+[2023.11.10-08.45.04:229][858]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 1024X128)
+[2023.11.10-08.45.04:229][858]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X64)
+[2023.11.10-08.45.04:229][858]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 64X64)
+[2023.11.10-08.45.04:229][858]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 64X64)
+[2023.11.10-08.45.04:229][858]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2023.11.10-08.45.04:229][858]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2023.11.10-08.45.04:229][858]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 512X64)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X64)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 64X64)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 1024X128)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 1024X64)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 128X64)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 128X64)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 128X32)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 32X32)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 1024X64)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X1024)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 1024X256)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X256)
+[2023.11.10-08.45.04:230][858]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X1024)
+[2023.11.10-08.45.04:465][858]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 1024X512)
+[2023.11.10-08.45.04:465][858]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X1024)
+[2023.11.10-08.45.04:465][858]Lightmass on LAPTOP-8FM1DVHP: 9:03 min total, 2.23 sec importing, 819 ms setup, 2:04 min photons, 6:55 min processing, 0 ms extra exporting [6055/6434 mappings]. Threads: 1:16:12 hours total, 58:03 min processing.
+[2023.11.10-08.45.04:482][858]LogStaticLightingSystem: TestMap_BuiltData storing lightmap data for 6055 meshes in 222 LightmapResourceClusters (27.3 Meshes per cluster).
+[2023.11.10-08.45.04:656][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.10-08.45.05:061][858]LogStaticLightingSystem: Illumination: 9:26 min (6.64 sec encoding lightmaps, 681 ms encoding shadowmaps)
+[2023.11.10-08.45.05:061][858]LogStaticLightingSystem: Lightmap texture memory:  112.1 MB (112.1 MB streaming, 0.0 MB non-streaming), 112 textures
+[2023.11.10-08.45.05:061][858]LogStaticLightingSystem: Shadowmap texture memory: 15.2 MB (15.2 MB streaming, 0.0 MB non-streaming), 39 textures
+[2023.11.10-08.45.15:203][858]DumpUnbuiltLightIteractions
+[2023.11.10-08.45.15:203][858]Lights with unbuilt interactions: 0
+[2023.11.10-08.45.15:203][858]
+[2023.11.10-08.45.15:203][858]Primitives with unbuilt interactions: 0
+[2023.11.10-08.45.15:221][858]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.10-08.45.15:221][858]LogShaderCompilers: Display: Total job queries 1888, among them cache hits 904 (47.88%)
+[2023.11.10-08.45.15:221][858]LogShaderCompilers: Display: Tracking 984 distinct input hashes that result in 608 distinct outputs (61.79%)
+[2023.11.10-08.45.15:221][858]LogShaderCompilers: Display: RAM used: 3.87 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.47%
+[2023.11.10-08.45.15:222][858]LogShaderCompilers: Display: ================================================
+[2023.11.10-08.45.19:484][858]LogTexture: Display: Building textures: NewReflectionComponentTexture884DEC4A4E177A9D6BA10DA4FA1A9B16 (BGRA8, 128X128)
+[2023.11.10-08.45.19:502][858]LogTexture: Display: Building textures: NewReflectionComponentTexture3D43F0954F3BB08DDDA4AEA16460A56D (BGRA8, 128X128)
+[2023.11.10-08.45.19:512][858]LogTexture: Display: Building textures: NewReflectionComponentTextureC1EB039B47934060C66AC69AB106FF41 (BGRA8, 128X128)
+[2023.11.10-08.45.19:522][858]LogTexture: Display: Building textures: NewReflectionComponentTexture0BF6A09B48E20628438A1EB50BB8212A (BGRA8, 128X128)
+[2023.11.10-08.45.19:531][858]LogTexture: Display: Building textures: NewReflectionComponentTexture179961A04BA979E004F98CA0CEA21CAC (BGRA8, 128X128)
+[2023.11.10-08.45.19:542][858]LogTexture: Display: Building textures: NewReflectionComponentTextureDB055A9243E99139176B94987934D991 (BGRA8, 128X128)
+[2023.11.10-08.45.19:552][858]LogTexture: Display: Building textures: NewReflectionComponentTextureDEDA5171477E312A73DB7F8A724995CE (BGRA8, 128X128)
+[2023.11.10-08.45.19:561][858]LogTexture: Display: Building textures: NewReflectionComponentTextureED31571F400E42C5822A1BB5DC7B3639 (BGRA8, 128X128)
+[2023.11.10-08.45.19:572][858]LogTexture: Display: Building textures: NewReflectionComponentTexture4DA475724D614CF26454E39CAD37AECA (BGRA8, 128X128)
+[2023.11.10-08.45.19:583][858]LogTexture: Display: Building textures: NewReflectionComponentTexture4AEA5C8A4A8C05F8C247DCAD2B79074C (BGRA8, 128X128)
+[2023.11.10-08.45.19:593][858]LogTexture: Display: Building textures: NewReflectionComponentTextureAE15416F486FB2643EFB03B0DB9C5630 (BGRA8, 128X128)
+[2023.11.10-08.45.19:604][858]LogTexture: Display: Building textures: NewReflectionComponentTexture21DE47D545819B5625794191E937C904 (BGRA8, 128X128)
+[2023.11.10-08.45.19:619][858]LogTexture: Display: Building textures: NewReflectionComponentTexture923726714A9893C11AB5C8B34A388BE6 (BGRA8, 128X128)
+[2023.11.10-08.45.19:631][858]LogTexture: Display: Building textures: NewReflectionComponentTextureEA25ECE64941A16F2305E49E51E56655 (BGRA8, 128X128)
+[2023.11.10-08.45.19:641][858]LogTexture: Display: Building textures: NewReflectionComponentTexture998A1DA749C3824495F359A5F84962AC (BGRA8, 128X128)
+[2023.11.10-08.45.19:653][858]LogTexture: Display: Building textures: NewReflectionComponentTexture0EF7B80642D1A5160A671BA0D3745D7B (BGRA8, 128X128)
+[2023.11.10-08.45.19:663][858]LogTexture: Display: Building textures: NewReflectionComponentTextureA4FEA878434B312F6FCA77A8A54C9FFB (BGRA8, 128X128)
+[2023.11.10-08.45.19:672][858]LogTexture: Display: Building textures: NewReflectionComponentTextureFFBDC9E24BC904A07490F7ADEA20B08A (BGRA8, 128X128)
+[2023.11.10-08.45.19:682][858]LogTexture: Display: Building textures: NewReflectionComponentTexture3C52D4B1430AB941238DE38D41C747CB (BGRA8, 128X128)
+[2023.11.10-08.45.19:692][858]LogTexture: Display: Building textures: NewReflectionComponentTexture55CC9AC84AE3D21E85C653AD8BB1B518 (BGRA8, 128X128)
+[2023.11.10-08.45.19:704][858]LogTexture: Display: Building textures: NewReflectionComponentTexture972D3C744A9907CC93EA8BB12C38163F (BGRA8, 128X128)
+[2023.11.10-08.45.19:713][858]LogTexture: Display: Building textures: NewReflectionComponentTextureB1B654FD48C35E0C69B3FA9A17F6851E (BGRA8, 128X128)
+[2023.11.10-08.45.19:725][858]LogTexture: Display: Building textures: NewReflectionComponentTextureF6FA8DD24CDC8767C3D05CA11E2545C9 (BGRA8, 128X128)
+[2023.11.10-08.45.19:735][858]LogTexture: Display: Building textures: NewReflectionComponentTexture1A49BFB84D572EC582C48E9A94C100C2 (BGRA8, 128X128)
+[2023.11.10-08.45.19:745][858]LogTexture: Display: Building textures: NewReflectionComponentTexture9E1D1E3C4287CB935DF3B983535F89C1 (BGRA8, 128X128)
+[2023.11.10-08.45.19:756][858]LogTexture: Display: Building textures: NewReflectionComponentTextureE2BBA05A4413CE187E339CA51B010087 (BGRA8, 128X128)
+[2023.11.10-08.45.19:766][858]LogTexture: Display: Building textures: NewReflectionComponentTextureBD9C1CD94CC51614ACD9E38FB070F030 (BGRA8, 128X128)
+[2023.11.10-08.45.19:776][858]LogTexture: Display: Building textures: NewReflectionComponentTextureA7FE53664386191142E86C9D54F379C7 (BGRA8, 128X128)
+[2023.11.10-08.45.19:786][858]LogTexture: Display: Building textures: NewReflectionComponentTexture26FFEBBE446303B2FE589385D8FBB901 (BGRA8, 128X128)
+[2023.11.10-08.45.19:795][858]LogTexture: Display: Building textures: NewReflectionComponentTexture03356C7F494AE19BB3A178ADBB7ABE07 (BGRA8, 128X128)
+[2023.11.10-08.45.19:805][858]LogTexture: Display: Building textures: NewReflectionComponentTexture8A8CC03446E925807EF90A865DEBC22F (BGRA8, 128X128)
+[2023.11.10-08.45.19:814][858]LogTexture: Display: Building textures: NewReflectionComponentTexture62FB875B4B599E118489EE86125A1331 (BGRA8, 128X128)
+[2023.11.10-08.45.19:824][858]LogTexture: Display: Building textures: NewReflectionComponentTextureE326373049B9825F999EE8BDF6524DC4 (BGRA8, 128X128)
+[2023.11.10-08.45.19:834][858]LogTexture: Display: Building textures: NewReflectionComponentTexture9CF9C3CD4B260DBE746430A624F3E3F2 (BGRA8, 128X128)
+[2023.11.10-08.45.19:844][858]LogTexture: Display: Building textures: NewReflectionComponentTextureE58515E5455570ADE5F452911C5DCD54 (BGRA8, 128X128)
+[2023.11.10-08.45.19:855][858]LogTexture: Display: Building textures: NewReflectionComponentTexture852B4D3D45628C5195E924A88BA9A176 (BGRA8, 128X128)
+[2023.11.10-08.45.19:864][858]LogTexture: Display: Building textures: NewReflectionComponentTextureC20DBFBC4114E0D3002B889E7A50227A (BGRA8, 128X128)
+[2023.11.10-08.45.19:874][858]LogTexture: Display: Building textures: NewReflectionComponentTextureAF69B3814EC60188D984FA9BC066FCA4 (BGRA8, 128X128)
+[2023.11.10-08.45.19:884][858]LogTexture: Display: Building textures: NewReflectionComponentTexture13E9180B49076B9A09740E9DC5A3DF30 (BGRA8, 128X128)
+[2023.11.10-08.45.19:895][858]LogTexture: Display: Building textures: NewReflectionComponentTextureD17DA4A944841C5F8C8D57933E9F1FAF (BGRA8, 128X128)
+[2023.11.10-08.45.19:905][858]LogTexture: Display: Building textures: NewReflectionComponentTexture0AE9098A480242F816E3E08F7C1397FA (BGRA8, 128X128)
+[2023.11.10-08.45.19:915][858]LogTexture: Display: Building textures: NewReflectionComponentTexture563ED6414BC8264F2119B6A1C9A85539 (BGRA8, 128X128)
+[2023.11.10-08.45.19:925][858]LogTexture: Display: Building textures: NewReflectionComponentTextureEFAA992D40B7ACB13E03A8BE68C3FAAC (BGRA8, 128X128)
+[2023.11.10-08.45.19:936][858]LogTexture: Display: Building textures: NewReflectionComponentTexture66A6E0A842011837E5E197BF43B5006E (BGRA8, 128X128)
+[2023.11.10-08.45.19:947][858]LogTexture: Display: Building textures: NewReflectionComponentTexture1F57836D4C122F6E9F7A1EBC8DBEFC85 (BGRA8, 128X128)
+[2023.11.10-08.45.19:957][858]LogTexture: Display: Building textures: NewReflectionComponentTextureF8F0BBAE427C91E3BB282FA6D4E1217E (BGRA8, 128X128)
+[2023.11.10-08.45.19:967][858]LogTexture: Display: Building textures: NewReflectionComponentTexture723FD6B64E708C05CA9B48A9BADA5C10 (BGRA8, 128X128)
+[2023.11.10-08.45.19:978][858]LogTexture: Display: Building textures: NewReflectionComponentTexture440BB67B4325C34D9AF021A90915F36E (BGRA8, 128X128)
+[2023.11.10-08.45.19:988][858]LogTexture: Display: Building textures: NewReflectionComponentTextureF82334D14A7A648EE89FB9A783FC9A3D (BGRA8, 128X128)
+[2023.11.10-08.45.19:998][858]LogTexture: Display: Building textures: NewReflectionComponentTexture574C9C1B430748E588238E97250BEB48 (BGRA8, 128X128)
+[2023.11.10-08.45.20:008][858]LogTexture: Display: Building textures: NewReflectionComponentTexture1875553742DD902CCC221D900A71C047 (BGRA8, 128X128)
+[2023.11.10-08.45.20:018][858]LogTexture: Display: Building textures: NewReflectionComponentTexture857BDAEE496FBB3E78047BBFFC8A5BAF (BGRA8, 128X128)
+[2023.11.10-08.45.20:028][858]LogTexture: Display: Building textures: NewReflectionComponentTexture7B9F961D4C0F9373AD8C98A4DFFB4D6E (BGRA8, 128X128)
+[2023.11.10-08.45.20:041][858]LogTexture: Display: Building textures: NewReflectionComponentTextureFD150E544618B41669142E8FF5650F70 (BGRA8, 128X128)
+[2023.11.10-08.45.20:051][858]LogTexture: Display: Building textures: NewReflectionComponentTextureDF5FE2DA45B38A4A7D3EF5BC2EE4EEC2 (BGRA8, 128X128)
+[2023.11.10-08.45.20:061][858]LogTexture: Display: Building textures: NewReflectionComponentTexture2058A1DE4D6EE52FB08C459EFABAA05C (BGRA8, 128X128)
+[2023.11.10-08.45.20:071][858]LogTexture: Display: Building textures: NewReflectionComponentTexture58C3472F4F1F81B4996E5C90DA73C297 (BGRA8, 128X128)
+[2023.11.10-08.45.20:082][858]LogTexture: Display: Building textures: NewReflectionComponentTexture99D499DA499E6017CCBD85B34A9E83D3 (BGRA8, 128X128)
+[2023.11.10-08.45.20:092][858]LogTexture: Display: Building textures: NewReflectionComponentTextureF4AE3EEE471F0BD4D2082883CB351563 (BGRA8, 128X128)
+[2023.11.10-08.45.20:103][858]LogTexture: Display: Building textures: NewReflectionComponentTexture4E3CF5564A076795EB82D2A0EC88B622 (BGRA8, 128X128)
+[2023.11.10-08.45.20:113][858]LogTexture: Display: Building textures: NewReflectionComponentTextureAA53414D4561F7ED43DF71895ED333E1 (BGRA8, 128X128)
+[2023.11.10-08.45.20:124][858]LogTexture: Display: Building textures: NewReflectionComponentTextureFC38D2BA4A635C1093D11F861EFC9648 (BGRA8, 128X128)
+[2023.11.10-08.45.20:134][858]LogTexture: Display: Building textures: NewReflectionComponentTexture7BC4A58B40C318FD3825E48AC050D0DF (BGRA8, 128X128)
+[2023.11.10-08.45.20:145][858]LogTexture: Display: Building textures: NewReflectionComponentTextureECBEE2364135AEDACEEFA3A39E9FDF9C (BGRA8, 128X128)
+[2023.11.10-08.45.20:158][858]LogTexture: Display: Building textures: NewReflectionComponentTexture9BACA61C4120BDDEF51928AB8E8D2472 (BGRA8, 128X128)
+[2023.11.10-08.45.20:170][858]LogTexture: Display: Building textures: NewReflectionComponentTexture959804494B7DDA873C9E9FA3F21A0A0B (BGRA8, 128X128)
+[2023.11.10-08.45.20:182][858]LogTexture: Display: Building textures: NewReflectionComponentTexture077439D045B366F9446895811AFC6075 (BGRA8, 128X128)
+[2023.11.10-08.45.20:192][858]LogTexture: Display: Building textures: NewReflectionComponentTextureD27EC8E841AF800401C095A245AB731E (BGRA8, 128X128)
+[2023.11.10-08.45.20:202][858]LogTexture: Display: Building textures: NewReflectionComponentTextureDF58C49F4A2635A23EFA339C8068665B (BGRA8, 128X128)
+[2023.11.10-08.45.20:212][858]LogTexture: Display: Building textures: NewReflectionComponentTexture6420C9CA43F0BEDD6DE88AA24861D323 (BGRA8, 128X128)
+[2023.11.10-08.45.20:222][858]LogTexture: Display: Building textures: NewReflectionComponentTextureE1B8CECD4464DC0A4BB38DA7F721D669 (BGRA8, 128X128)
+[2023.11.10-08.45.20:232][858]LogTexture: Display: Building textures: NewReflectionComponentTextureAAA1FE824E6E186C24AB1F9F4AAC7487 (BGRA8, 128X128)
+[2023.11.10-08.45.20:242][858]LogTexture: Display: Building textures: NewReflectionComponentTexture5B39151E4ADC5C4356ADAF8EFBCD032F (BGRA8, 128X128)
+[2023.11.10-08.45.20:252][858]LogTexture: Display: Building textures: NewReflectionComponentTexture0374133243A13C11B4F1E59E20769B1A (BGRA8, 128X128)
+[2023.11.10-08.45.20:262][858]LogTexture: Display: Building textures: NewReflectionComponentTextureB2D37FFC4323DE0706FA68AAA37F9A64 (BGRA8, 128X128)
+[2023.11.10-08.45.20:272][858]LogTexture: Display: Building textures: NewReflectionComponentTexture5AB1F6554614510719A5F1A8045A1509 (BGRA8, 128X128)
+[2023.11.10-08.45.20:282][858]LogTexture: Display: Building textures: NewReflectionComponentTextureF385273044A37583E8E6D389071041C5 (BGRA8, 128X128)
+[2023.11.10-08.45.20:293][858]LogTexture: Display: Building textures: NewReflectionComponentTexture1F8D07384A9F9176801B25B2C5C97782 (BGRA8, 128X128)
+[2023.11.10-08.45.20:303][858]LogTexture: Display: Building textures: NewReflectionComponentTexture3CFDFA59434FD4FCFD520FA88B3E094B (BGRA8, 128X128)
+[2023.11.10-08.45.20:314][858]LogTexture: Display: Building textures: NewReflectionComponentTextureE7C28ECE4F8C37F8AC352AB840DD7A5E (BGRA8, 128X128)
+[2023.11.10-08.45.20:324][858]LogTexture: Display: Building textures: NewReflectionComponentTexture97AA3AA544F6780EB804AC916F7A4E16 (BGRA8, 128X128)
+[2023.11.10-08.45.20:334][858]LogTexture: Display: Building textures: NewReflectionComponentTexture7B678C734761856C2E84D3AB6CD0D03C (BGRA8, 128X128)
+[2023.11.10-08.45.20:344][858]LogTexture: Display: Building textures: NewReflectionComponentTexture387BA9B84BECE96528592C911135FCF4 (BGRA8, 128X128)
+[2023.11.10-08.45.20:353][858]LogTexture: Display: Building textures: NewReflectionComponentTexture6D11E112405DCD2E8DC990A15F7DBEE0 (BGRA8, 128X128)
+[2023.11.10-08.45.20:363][858]LogTexture: Display: Building textures: NewReflectionComponentTexture02F86DFE4D7133657FEE08B709E6EE7D (BGRA8, 128X128)
+[2023.11.10-08.45.20:375][858]LogTexture: Display: Building textures: NewReflectionComponentTexture57EFC33C449C276248A113B77D61F4D8 (BGRA8, 128X128)
+[2023.11.10-08.45.20:385][858]LogTexture: Display: Building textures: NewReflectionComponentTextureE1FF72DF4F87AAD0F7E8CDBB5A743A04 (BGRA8, 128X128)
+[2023.11.10-08.45.20:401][858]LogTexture: Display: Building textures: NewReflectionComponentTexture443918C9468BC47252A7D9851E723E3E (BGRA8, 128X128)
+[2023.11.10-08.45.20:417][858]LogTexture: Display: Building textures: NewReflectionComponentTexture68924AED446DE346A6715A94654AE25D (BGRA8, 128X128)
+[2023.11.10-08.45.20:427][858]LogTexture: Display: Building textures: NewReflectionComponentTexture6F177E1E493E789BA7A1C7ABB49D591C (BGRA8, 128X128)
+[2023.11.10-08.45.20:436][858]LogTexture: Display: Building textures: NewReflectionComponentTexture482AB95A4A388BB29389EBBFD6E59BE3 (BGRA8, 128X128)
+[2023.11.10-08.45.20:446][858]LogTexture: Display: Building textures: NewReflectionComponentTextureF712503F45BE4310780BFE951C70D0D4 (BGRA8, 128X128)
+[2023.11.10-08.45.20:457][858]LogTexture: Display: Building textures: NewReflectionComponentTextureAB433AB84A4AD4BD87EEC98426B94496 (BGRA8, 128X128)
+[2023.11.10-08.45.20:467][858]LogTexture: Display: Building textures: NewReflectionComponentTextureC0812995469A5279774B068305EBE50E (BGRA8, 128X128)
+[2023.11.10-08.45.24:359][859]Cmd: MAP CHECK NOTIFYRESULTS
+[2023.11.10-08.45.24:359][859]MapCheck: New page: TestMap - Nov 10, 2023, 10:45:24 PM
+[2023.11.10-08.45.24:359][859]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.45.24:360][859]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.45.24:360][859]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.45.24:360][859]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.45.24:360][859]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.45.24:360][859]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.45.24:360][859]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.45.24:360][859]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.45.24:360][859]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.45.24:360][859]MapCheck: Warning: InstancedFoliageActor_0 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2023.11.10-08.45.24:379][859]MapCheck: Warning: dirtEdge_13 dirtEdge_13 is in the same location as dirtEdge_61 
+[2023.11.10-08.45.24:381][859]MapCheck: Warning: buildingBarn_01_2 buildingBarn_01_2 is in the same location as buildingBarn_4 
+[2023.11.10-08.45.24:397][859]MapCheck: Warning: dirtEdge_61 dirtEdge_61 is in the same location as dirtEdge_13 
+[2023.11.10-08.45.24:398][859]MapCheck: Warning: buildingBarn_4 buildingBarn_4 is in the same location as buildingBarn_01_2 
+[2023.11.10-08.45.24:398][859]MapCheck: Map check complete: 0 Error(s), 14 Warning(s), took 39.051ms to complete.
+[2023.11.10-08.45.28:947][ 77]LogSlate: Window 'Message Log' being destroyed
+[2023.11.10-08.45.28:953][ 77]LogSlate: Window 'Message Log' being destroyed
